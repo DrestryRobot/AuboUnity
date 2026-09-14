@@ -1,0 +1,23 @@
+﻿# Unity generated/cache directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE and generated project files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# OS/editor files
+.DS_Store
+Thumbs.db
